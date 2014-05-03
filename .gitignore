@@ -1,4 +1,10 @@
-_rel/*
-ebin/*
+_rel
+ebin
 relx
-deps/*
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+.erlang.mk.packages.*
